@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Modak');
+
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-family: 'Modak', cursive;
+  font-size: 50px;
+  margin: 50px;
+}
+h2 {
+  font-family: 'Modak', cursive;
+  font-size: 30px;
+}
+p {
+  font-family: "Courier New";
+  font-size: 20px;
+}
+p li {
+  margin-bottom: 20px;
+  border-bottom: 1px dashed #aaa;
+
+}
+
+.logo-head {
+  background-image: url(logo.png);
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
